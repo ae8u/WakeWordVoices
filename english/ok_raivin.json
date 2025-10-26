@@ -1,8 +1,7 @@
 {
   "type": "micro",
   "wake_word": "OK Raivin",
-  "author": "Your Name",
-  "website": "https://example.com/",
+  "author": "Mike Ernst",
   "model": "ok_raivin.tflite",
   "trained_languages": ["en"],
   "version": 2,
