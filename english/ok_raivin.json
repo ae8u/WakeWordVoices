@@ -1,7 +1,7 @@
 {
   "type": "micro",
-  "wake_word": "okay_raven",
-  "model": "okay_raven.tflite",
+  "wake_word": "ok_raivin",
+  "model": "ok_raivin.tflite",
   "trained_languages": [
     "en"
   ],
